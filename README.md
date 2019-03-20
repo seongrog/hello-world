@@ -1,2 +1,6 @@
 # hello-world
-Hello World repository
+
+Hi followers,
+
+I had a piece of cake at the Werid cafe in Richmond. It was so delicious!
+
